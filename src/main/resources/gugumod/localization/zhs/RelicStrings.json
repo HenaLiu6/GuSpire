@@ -1,0 +1,24 @@
+{
+  "${modID}:RelicID": {
+    "NAME": "优质遗物",
+    "FLAVOR": "在遗物详情界面显示的背景文本。",
+    "DESCRIPTIONS": [
+      "在你的回合开始时获得[E]。[E]是一个能量图标。"
+    ]
+  },
+  "${modID}:GugusHealth": {
+    "NAME": "咕咕的健康状况",
+    "FLAVOR": "在遗物详情界面显示的背景文本。",
+    "DESCRIPTIONS": [
+      "在战斗开始时将自己的#y生命值设为#b",
+      "。"
+    ]
+  },
+  "${modID}:ThornyRose": {
+    "NAME": "荆棘玫瑰",
+    "FLAVOR": "在遗物详情界面显示的背景文本。",
+    "DESCRIPTIONS": [
+      "每当你因卡牌失去生命值时，对所有敌人造成荆棘伤害。"
+    ]
+  }
+}

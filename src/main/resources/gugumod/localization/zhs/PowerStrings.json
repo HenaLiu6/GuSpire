@@ -1,0 +1,72 @@
+{
+  "${modID}:PowerID": {
+    "NAME": "终极力量",
+    "DESCRIPTIONS": [
+      "你非常酷且强大。"
+    ]
+  },
+  "${modID}:MaxHP": {
+    "NAME": "临时最大生命值",
+    "DESCRIPTIONS": [
+      "你拥有 ",
+      " 点本次战斗的临时最大生命值。 NL ",
+      " 点当前额外生命。"
+    ]
+  },
+  "${modID}:YuzusSong": {
+    "NAME": "天野柚的歌",
+    "DESCRIPTIONS": [
+      "回合开始时，获得 ",
+      " 点本次战斗的临时最大生命值。"
+    ]
+  },
+  "${modID}:SelfDmgToRnd": {
+    "NAME": "共享自我之爱",
+    "DESCRIPTIONS": [
+      "每当你失去生命时，令一个随机敌人失去相同数量的生命。"
+    ]
+  },
+  "${modID}:BlockFromThorns": {
+    "NAME": "荆棘化护甲",
+    "DESCRIPTIONS": [
+      "荆棘效果同时转化为护甲。"
+    ]
+  },
+  "${modID}:WuhanPower": {
+    "NAME": "武汉夜市",
+    "DESCRIPTIONS": [
+      "回合开始时获得 ",
+      " 张升级的食物牌。"
+    ]
+  },
+  "${modID}:AmanoIns": {
+    "NAME": "天野柚 Amano Yuzu",
+    "DESCRIPTIONS": [
+      "哇，柚来了！"
+    ]
+  },
+  "${modID}:ErunIns": {
+    "NAME": "御犬えるん Erun",
+    "DESCRIPTIONS": [
+      "哇，えるん来了！"
+    ]
+  },
+  "${modID}:RaidenIns": {
+    "NAME": "雷依德恩 Raiden",
+    "DESCRIPTIONS": [
+      "哇，Raiden来了！"
+    ]
+  },
+  "${modID}:MakiIns": {
+    "NAME": "真紀爱炫饭 Maki",
+    "DESCRIPTIONS": [
+      "哇，Maki来了！"
+    ]
+  },
+  "${modID}:powerInsomnia": {
+    "NAME": "失眠症 InSonia",
+    "DESCRIPTIONS": [
+      "回合结束时，召唤一名失眠症成员。"
+    ]
+  }
+}

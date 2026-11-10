@@ -1,0 +1,72 @@
+{
+  "${modID}:PowerID": {
+    "NAME": "Ultimate Power",
+    "DESCRIPTIONS": [
+      "You are Very Cool and Strong."
+    ]
+  },
+  "${modID}:MaxHP": {
+    "NAME": "Temporary Max HP",
+    "DESCRIPTIONS": [
+      "You have ",
+      " temporary max HP for this combat. NL ",
+      " current excess health"
+    ]
+  },
+  "${modID}:YuzusSong": {
+    "NAME": "Songs of Amano Yuzu",
+    "DESCRIPTIONS": [
+      "Start of turn, gain ",
+      " temporary max HP for this combat."
+    ]
+  },
+  "${modID}:SelfDmgToRnd": {
+    "NAME": "Shared Self Love",
+    "DESCRIPTIONS": [
+      "Whenever you lose health, cause a random enemy to lose the same amount."
+    ]
+  },
+  "${modID}:BlockFromThorns": {
+    "NAME": "Block from Thorns",
+    "DESCRIPTIONS": [
+      "Thorns is also gained as block."
+    ]
+  },
+  "${modID}:WuhanPower": {
+    "NAME": "Wuhan Night Market",
+    "DESCRIPTIONS": [
+      "Start of turn gain ",
+      " upgraded food cards."
+    ]
+  },
+  "${modID}:AmanoIns": {
+    "NAME": "Amano Yuzu",
+    "DESCRIPTIONS": [
+      "Wow, Yuzu is here"
+    ]
+  },
+  "${modID}:ErunIns": {
+    "NAME": "Erun",
+    "DESCRIPTIONS": [
+      "Wow, Erun is here"
+    ]
+  },
+  "${modID}:RaidenIns": {
+    "NAME": "Raiden",
+    "DESCRIPTIONS": [
+      "Wow, Raiden is here"
+    ]
+  },
+  "${modID}:MakiIns": {
+    "NAME": "Maki",
+    "DESCRIPTIONS": [
+      "Wow, Maki is here"
+    ]
+  },
+  "${modID}:powerInsomnia": {
+    "NAME": "InSonia",
+    "DESCRIPTIONS": [
+      "End of turn, summon a member of InSonia"
+    ]
+  }
+}

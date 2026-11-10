@@ -1,0 +1,140 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "示例卡牌",
+    "DESCRIPTION": "描述。 NL 第二行。",
+    "UPGRADE_DESCRIPTION": "如果卡牌被升级，将自动使用此描述。如果不需要请删除。",
+    "EXTENDED_DESCRIPTION": [
+      "你可以在这里放入更多文本。",
+      "如果需要用于某些功能。",
+      "暴风雪（Blizzard）卡牌就是很好的例子。"
+    ]
+  },
+  "${modID}:Strike": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 失去 !M! 点生命值。"
+  },
+  "${modID}:Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 恢复 !M! 点生命值。"
+  },
+  "${modID}:MercenarysSword": {
+    "NAME": "佣兵之剑",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL *击杀时：返回手牌并恢复 [E] NL *消耗。"
+  },
+  "${modID}:ReaperFriend": {
+    "NAME": "死神之友",
+    "DESCRIPTION": "将所有单位的生命值设为平均值。 NL *消耗。",
+    "UPGRADE_DESCRIPTION": "*固有。 NL 将所有单位的生命值设为平均值。 NL *消耗。"
+  },
+  "${modID}:HealingSong": {
+    "NAME": "心之歌",
+    "DESCRIPTION": "回合开始时，获得 !M! 点最大生命值。 NL 召唤 ${modID}:Amane。"
+  },
+  "${modID}:CancelStream": {
+    "NAME": "取消直播",
+    "DESCRIPTION": "立即获得 [E] 并在下回合获得 !B! 点格挡。"
+  },
+  "${modID}:Member": {
+    "NAME": "直播间会员",
+    "DESCRIPTION": "获得 !M! 金币并抽 1 张牌。 NL *消耗。",
+    "EXTENDED_DESCRIPTION": [
+      "来自咕咕直播间曾担任过舰长的随机观众。",
+      "我没能获得完整的名单。如果你想确认你的名字是否在名单中，请联系我（以便更新）。"
+    ]
+  },
+  "${modID}:BirdAdoption": {
+    "NAME": "领养小鸟",
+    "DESCRIPTION": "失去 6 点生命值 NL 抽 !M! 张牌。"
+  },
+  "${modID}:two_thorns": {
+    "NAME": "双荆棘",
+    "DESCRIPTION": "获得2点荆棘 NL 恢复 !M! 点生命值。"
+  },
+  "${modID}:thorns_block": {
+    "NAME": "荆棘格挡",
+    "DESCRIPTION": "每当你获得荆棘时，获得等量的格挡。 NL 获得 !B! 点格挡。"
+  },
+  "${modID}:ShareTheLove": {
+    "NAME": "分享爱意 <3",
+    "DESCRIPTION": "每当你因卡牌失去生命值时，随机一名敌人失去等量生命值。",
+    "UPGRADE_DESCRIPTION": "每当你因卡牌失去生命值时，随机一名敌人失去等量生命值。 NL 抽 !M! 张牌。"
+  },
+  "${modID}:WuhanNightMarket": {
+    "NAME": "武汉夜市",
+    "DESCRIPTION": "回合开始时，获得 !M! 张随机升级的食物牌。"
+  },
+  "${modID}:FriedStinkyTofu": {
+    "NAME": "油炸臭豆腐",
+    "DESCRIPTION": "获得 !M! 点荆棘。 NL 虚无。消耗。"
+  },
+  "${modID}:HotDryNoodles": {
+    "NAME": "热干面",
+    "DESCRIPTION": "所有单位失去 !M! 点生命值。 NL 虚无。消耗。"
+  },
+  "${modID}:Strawberry": {
+    "NAME": "草莓",
+    "DESCRIPTION": "获得 !M! 点最大生命值。 NL 虚无。消耗。"
+  },
+  "${modID}:CropYield": {
+    "NAME": "丰收",
+    "DESCRIPTION": "将 2 张食物牌加入你的手牌。",
+    "UPGRADE_DESCRIPTION": "将 2 张已升级的食物牌加入你的手牌。"
+  },
+  "${modID}:Family": {
+    "NAME": "家人",
+    "DESCRIPTION": "获得 !M! 点最大生命值。 NL 获得 !B! 点格挡。 NL *消耗。"
+  },
+  "${modID}:SelfCare": {
+    "NAME": "自我疗愈",
+    "DESCRIPTION": "恢复 !${modID}:heal! 点生命值。 NL 失去 !M! 点生命值。"
+  },
+  "${modID}:BlockWeak": {
+    "NAME": "虚弱格挡",
+    "DESCRIPTION": "获得 !B! 点格挡。 NL 对所有敌人施加 !M! 层虚弱。"
+  },
+  "${modID}:thornsDamage": {
+    "NAME": "荆棘伤害",
+    "DESCRIPTION": "对随机一名敌人造成等同于荆棘值的伤害。"
+  },
+  "${modID}:drawLoseHp": {
+    "NAME": "抽牌失血",
+    "DESCRIPTION": "失去 !M! 点生命值。 NL 抽1张牌。"
+  },
+  "${modID}:RabbitFriend": {
+    "NAME": "兔子朋友",
+    "DESCRIPTION": "恢复 !M! 点生命值并随机弃 1 张牌。"
+  },
+  "${modID}:Bibi": {
+    "NAME": "比比",
+    "DESCRIPTION": "恢复 !M! 点生命值。"
+  },
+  "${modID}:exhaustBlock": {
+    "NAME": "消耗格挡",
+    "DESCRIPTION": "消耗1张牌。 NL 获得 !B! 点格挡。"
+  },
+  "${modID}:BlockEqualThorns": {
+    "NAME": "荆棘格挡",
+    "DESCRIPTION": "获得等同于荆棘值加 !B! 的格挡。"
+  },
+  "${modID}:Erun": {
+    "NAME": "Erun - 待定更好名字",
+    "DESCRIPTION": "恢复 !M! 点生命值。 NL 召唤 ${modID}:Erun。 NL 消耗。"
+  },
+  "${modID}:ExcitedPuppy": {
+    "NAME": "兴奋的小狗",
+    "DESCRIPTION": "抽 3 张牌。 NL 召唤 ${modID}:Maki NL 虚无。"
+  },
+  "${modID}:ICUworker": {
+    "NAME": "ICU 护理员",
+    "DESCRIPTION": "失去 !M! 点生命值。 NL 召唤 ${modID}:Raiden。"
+  },
+  "${modID}:PromotionalWorker": {
+    "NAME": "宣传员",
+    "DESCRIPTION": "${modID}:召唤 X 名失眠症InSonia成员",
+    "UPGRADE_DESCRIPTION": "${modID}:召唤 X+1 名失眠症InSonia成员"
+  },
+  "${modID}:insomnia": {
+    "NAME": "失眠症InSonia",
+    "DESCRIPTION": "回合结束时，${modID}:召唤 1 名失眠症InSonia成员"
+  }
+}

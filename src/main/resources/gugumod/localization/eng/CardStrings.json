@@ -1,0 +1,140 @@
+{
+  "${modID}:ExampleCard": {
+    "NAME": "Name",
+    "DESCRIPTION": "Description. NL Second line.",
+    "UPGRADE_DESCRIPTION": "This will automatically be used if the card is upgraded. Remove it if unneeded.",
+    "EXTENDED_DESCRIPTION": [
+      "You can put more text in here.",
+      "If you need to use it for stuff.",
+      "Blizzard is a good example for this."
+    ]
+  },
+  "${modID}:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Lose !M! health"
+  },
+  "${modID}:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block. NL Restore !M! health."
+  },
+  "${modID}:MercenarysSword": {
+    "NAME": "Mercenary's Sword",
+    "DESCRIPTION": "Deal !D! damage. NL *On *Kill: Returns to hand and restores [E] NL *Exhaust."
+  },
+  "${modID}:ReaperFriend": {
+    "NAME": "Friend of the reaper",
+    "DESCRIPTION": "Set health of *ALL to the average. NL *Exhaust.",
+    "UPGRADE_DESCRIPTION": "*Innate. NL Set health of *ALL to the average. NL *Exhaust."
+  },
+  "${modID}:HealingSong": {
+    "NAME": "Song from the heart",
+    "DESCRIPTION": "Start of turn, gain !M! max HP. NL Summon ${modID}:Amane."
+  },
+  "${modID}:CancelStream": {
+    "NAME": "Cancel Stream",
+    "DESCRIPTION": "Gain [E] now and !B! Block next turn."
+  },
+  "${modID}:Member": {
+    "NAME": "Stream Membership",
+    "DESCRIPTION": "Gain !M! gold and draw 1 card. NL *Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      "Random person of those who have been captains of Gugu's stream.",
+      "I could not get a complete list of names. Feel free to contact me if you want to know if your name is in the list (so i can update it)."
+    ]
+  },
+  "${modID}:BirdAdoption": {
+    "NAME": "Bird Adoption",
+    "DESCRIPTION": "Lose 6 health NL Draw !M! cards."
+  },
+  "${modID}:two_thorns": {
+    "NAME": "two_thorns",
+    "DESCRIPTION": "Gain 2 Thorns NL Restore !M! health."
+  },
+  "${modID}:thorns_block": {
+    "NAME": "thorns_block",
+    "DESCRIPTION": "Whenever you gain Thorns, gain that much Block. NL Gain !B! Block."
+  },
+  "${modID}:ShareTheLove": {
+    "NAME": "Share the love <3",
+    "DESCRIPTION": "Whenever you lose health from a card, cause a random enemy to lose the same amount.",
+    "UPGRADE_DESCRIPTION": "Whenever you lose health from a card, cause a random enemy to lose the same amount. NL Draw !M! cards."
+  },
+  "${modID}:WuhanNightMarket": {
+    "NAME": "Wuhan Night Market",
+    "DESCRIPTION": "Start of turn, gain !M! random upgraded food cards."
+  },
+  "${modID}:FriedStinkyTofu": {
+    "NAME": "Fried Stinky Tofu",
+    "DESCRIPTION": "Gain !M! Thorns. NL Ethereal. Exhaust."
+  },
+  "${modID}:HotDryNoodles": {
+    "NAME": "Hot Dry Noodles",
+    "DESCRIPTION": "ALL lose !M! health. NL Ethereal. Exhaust."
+  },
+  "${modID}:Strawberry": {
+    "NAME": "Strawberry",
+    "DESCRIPTION": "Gain !M! max HP. NL Ethereal. Exhaust."
+  },
+  "${modID}:CropYield": {
+    "NAME": "Crop Yield",
+    "DESCRIPTION": "Add 2 food card to your hand",
+    "UPGRADE_DESCRIPTION": "Add 2 upgraded food card to your hand."
+  },
+  "${modID}:Family": {
+    "NAME": "Family",
+    "DESCRIPTION": "Gain !M! max HP. NL Gain !B! block. NL *Exhaust."
+  },
+  "${modID}:SelfCare": {
+    "NAME": "Self care",
+    "DESCRIPTION": "Restore !${modID}:heal! health. NL Lose !M! health."
+  },
+  "${modID}:BlockWeak": {
+    "NAME": "BlockWeak",
+    "DESCRIPTION": "Gain !B! block. NL Apply !M! Weak to ALL enemies."
+  },
+  "${modID}:thornsDamage": {
+    "NAME": "thornsDamage",
+    "DESCRIPTION": "Deal damage equal to Thorns to a random enemy."
+  },
+  "${modID}:drawLoseHp": {
+    "NAME": "drawLoseHp",
+    "DESCRIPTION": "Lose !M! health. NL Draw 1 card."
+  },
+  "${modID}:RabbitFriend": {
+    "NAME": "Rabbit Friend",
+    "DESCRIPTION": "Restore !M! health and Discard a random card."
+  },
+  "${modID}:Bibi": {
+    "NAME": "Bibi",
+    "DESCRIPTION": "Restore !M! health."
+  },
+  "${modID}:exhaustBlock": {
+    "NAME": "exhaustBlock",
+    "DESCRIPTION": "Exhaust 1 card. NL Gain !B! block."
+  },
+  "${modID}:BlockEqualThorns": {
+    "NAME": "BlockEqualThorns",
+    "DESCRIPTION": "Gain block equal to Thorns + !B!"
+  },
+  "${modID}:Erun": {
+    "NAME": "Erun - Better name here",
+    "DESCRIPTION": "Restore !M! health. NL Summon ${modID}:Erun. NL Exhaust."
+  },
+  "${modID}:ExcitedPuppy": {
+    "NAME": "Excited Puppy",
+    "DESCRIPTION": "Draw 3 cards. NL Summon ${modID}:Maki NL Ethereal."
+  },
+  "${modID}:ICUworker": {
+    "NAME": "ICU Worker",
+    "DESCRIPTION": "Lose !M! health. NL Summon ${modID}:Raiden."
+  },
+  "${modID}:PromotionalWorker": {
+    "NAME": "Promotional Worker",
+    "DESCRIPTION": "${modID}:Summon X members of InSonia",
+    "UPGRADE_DESCRIPTION": "${modID}:Summon X + 1 members of InSonia"
+  },
+  "${modID}:insomnia": {
+    "NAME": "InSonia",
+    "DESCRIPTION": "End of turn, ${modID}:summon 1 member of InSonia"
+  }
+}
